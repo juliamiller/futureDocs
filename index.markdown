@@ -25,3 +25,6 @@ This is a numbered list
 ### heading 3
 #### heading 4
 
+Inline-style: 
+![Cool Image](images/rev-rev-vox.gif "ReVox")
+
