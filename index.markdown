@@ -25,6 +25,6 @@ This is a numbered list
 ### heading 3
 #### heading 4
 
-Inline-style: 
+#Inline-style: 
 ![Cool Image](https://revox.com/media/image/43/8a/c6/Revox_Classics_Home_M_800x800.jpg "ReVox")
 
